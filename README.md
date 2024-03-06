@@ -1,1 +1,1 @@
-# HDL-program-ile-devre-olu-turma
+Vivado programı kullanılmıştır
