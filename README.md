@@ -1,1 +1,1 @@
-Vivado programı kullanılmıştır
+
